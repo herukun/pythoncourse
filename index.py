@@ -3,3 +3,7 @@ def welcome():
 
 def fullname():
     print("faisal aljuhani")
+
+def sum():
+    print(1+2)
+print("Hello World !!")    
